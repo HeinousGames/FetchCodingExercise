@@ -16,5 +16,5 @@ The data is displayed in a Jetpack Composable LazyColumn based on the following 
    2. Android SDK Build-Tools 35.0.1
 2. Clone the repo and import into Android Studio, either by:
    1. File -> New -> Project from Version Control and pasting the repo url (works best with Git installed) or
-   2. File -> Open -> select the root build.gradle.kts file
+   2. Download the code zip file, extract it, and open the root build.gradle.kts file via File -> Open
 3. Sync the project and run it to a device or emulator
